@@ -13,6 +13,7 @@ Home: www.kataxwork.com<br>
 
 This application:
 
+> Using game Third Person template of the engine.<br>
 > AI prototypes using Behavior Tree and Blackboard <br>
 > Sequence, Selector and Simple Parallel composites of AI<br>
 > AI default Tasks and Custom AI Task<br> 
