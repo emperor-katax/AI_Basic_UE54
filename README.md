@@ -9,7 +9,7 @@ Home: www.kataxwork.com<br>
 > Blueprint only
 
 > [!IMPORTANT]
-> To use this application, basic blueprint programming skills with Unreal Engine, and knowledge of using Events and Event Dispatchers, is required.
+> To use this application, basic blueprint programming skills with Unreal Engine, and knowledge of using <b>Events</b> and <b>Event Dispatchers</b>, is required.
 
 This application:
 
