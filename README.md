@@ -34,6 +34,6 @@ GameMode<br>
 Blueprint Actor<br>
 
 
-<h4>This project is designed for teaching game application development with Unreal Engine, by demonstration a free to use functional prototype.<br>The project template is optimized to reduce size of zip-file.<br> </h4>
+<h4>This project is designed for teaching application development with Unreal Engine, by demonstration a free to use functional prototype.<br>The project template is optimized to reduce size of zip-file.<br> </h4>
 
 Enjoy .. : ] ,, 
