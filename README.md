@@ -15,9 +15,9 @@ This application:
 
 > AI prototypes using Behavior Tree and Blackboard <br>
 > Sequence, Selector and Simple Parallel composites of AI<br>
-> AI engine`s Tasks and Custom Tasks<br> 
+> AI engine default Tasks and Custom Tasks<br> 
 > Develop custom AI Service<br>
-> AI engine`s Decorators and Custom Decorator<br>
+> AI engine default Decorators and Custom Decorator<br>
 
 
 Using:
