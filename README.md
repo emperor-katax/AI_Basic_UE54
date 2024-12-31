@@ -18,7 +18,7 @@ This application:
 > AI default Tasks and Custom AI Task<br> 
 > Develop custom AI Service<br>
 > AI default Decorators and Custom AI Decorator<br>
-> Using game->Third Person template of the engine.<br>
+> Using Third Person template of the engine.<br>
 
 
 Using:
